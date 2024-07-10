@@ -1,7 +1,6 @@
 # Py-Trading
-## Trading Algorithms
+## Trading Algorithm & To Dos
 1. Momentum Trading
-Need to:
 - Optimize Look-back period
 - Use Alternative Momentum Indicators
 - Performance Analysis - Backtesting
