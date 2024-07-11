@@ -4,4 +4,4 @@
 - Optimize Look-back period
 - Use Alternative Momentum Indicators
 - Performance Analysis - Backtesting
-2.Regression
+2. Regression
